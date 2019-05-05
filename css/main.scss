@@ -62,7 +62,7 @@ body {
 .main {
   display: block;
   padding: 6rem 3% 7rem;
-  background: url(/img/background.png)
+  background: url(img/background.png)
 }
 
 a {
@@ -101,7 +101,7 @@ a {
 .header, .footer {
   position: relative;
   z-index: 1;
-  background-image: url(/img/pattern_palms.png);
+  background-image: url(img/pattern_palms.png);
   &::before {
     background-color: rgba(22, 12, 63, 0.85);
     background: linear-gradient(135deg,rgba(37, 10, 218, 0.92) -30%,rgba(255, 77, 77, 0.87),rgba(255, 245, 59, 0.92) 120%)
@@ -409,7 +409,7 @@ a {
 @media (min-width: 1550px) {
   body {
     font-size: 17px;
-    background-image: url(/img/pattern_waves.png);
+    background-image: url(img/pattern_waves.png);
   }
 }
 
